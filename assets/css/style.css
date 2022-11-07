@@ -64,6 +64,13 @@ h2 {
     color: crimson;
 }
 
+.text-left{
+    text-align: left;
+}
+
+.text-center{
+    text-align: center;
+}
 
 .section{
     padding: 20px;
@@ -97,7 +104,7 @@ display: inline;
     background: url("/assets/images/getintouch.jpeg");
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 500px;
 }
 
 .signup-form {
