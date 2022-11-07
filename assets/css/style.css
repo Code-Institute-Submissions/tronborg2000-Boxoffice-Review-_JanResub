@@ -82,3 +82,37 @@ display: inline;
     color: #3a3a3a;
     
 }
+
+.form-section {
+    clear: left;
+    background: url("/assets/images/getintouch.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #fafafa;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    padding: 30px;
+    float: left;
+    left:10%;
+}
+
+.signup-form h2 {
+    color:#fafafa;
+    margin-bottom: 20px;
+    }
+
+.text-input {
+    background: transparent;
+    color: #fafafa ;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
