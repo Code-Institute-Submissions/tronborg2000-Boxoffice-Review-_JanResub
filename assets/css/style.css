@@ -30,27 +30,19 @@ ul > li {
     
 }
 
-#menu{
-    font-size: 130%; 
-    letter-spacing: 4px;
-    color: white;
-    line-height: 75px;
-    margin-right: 50px;
-
-}
-
-#menu li{
+#nav li{
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    
-    
-
 }
 
-#menu a:hover{
-    border-bottom: 1px crimson;
+#nav {
+    font-size: 1.5rem;
+    height: 40px;
+}
 
+.nav-wrapper{
+    position: relative;
 }
 
 p{
