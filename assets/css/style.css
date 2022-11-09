@@ -134,14 +134,8 @@ display: inline;
 }
 
 .review-wrapper{
-    width: 100%;
-    position: relative;
-    padding: 0;
-    margin: 0;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 10px;
+    }
 
-}
-
-.reviews-update{
-    width: 33%;
-    
-}
