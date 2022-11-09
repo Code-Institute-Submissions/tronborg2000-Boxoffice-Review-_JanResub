@@ -26,9 +26,15 @@ body {
     color: #3a3a3a;
 }
 
+ul{
+    text-align: center;
+}
 
 ul > li {
     font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    position: relative;
+    
     
 }
 
@@ -40,7 +46,7 @@ ul > li {
 
 #nav {
     font-size: 1.5rem;
-    height: 40px;
+    height: 30px;
 }
 
 .nav-wrapper{
@@ -137,5 +143,7 @@ display: inline;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 10px;
+        margin-left: 40px;
+        margin-right: 40px;
     }
 
