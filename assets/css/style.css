@@ -132,3 +132,16 @@ display: inline;
     border: 1px solid #fafafa;
     border-radius: 2px;
 }
+
+.review-wrapper{
+    width: 100%;
+    position: relative;
+    padding: 0;
+    margin: 0;
+
+}
+
+.reviews-update{
+    width: 33%;
+    
+}
