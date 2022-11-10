@@ -141,7 +141,7 @@ display: inline;
 
 .review-wrapper{
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(0, 1fr);
         grid-gap: 10px;
         margin-left: 40px;
         margin-right: 40px;
