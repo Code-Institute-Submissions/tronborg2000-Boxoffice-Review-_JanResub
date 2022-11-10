@@ -26,9 +26,11 @@ body {
     color: #3a3a3a;
 }
 
-ul{
-    text-align: center;
-}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
 
 ul > li {
     font-family: 'Poppins', sans-serif;
@@ -81,9 +83,11 @@ h2 {
 .section{
     padding: 20px;
 }
-#menu a{
-    text-decoration: none;
-    color: black;
+
+.contactus {
+    text-align: center;
+    padding: 2rem;
+    
 }
 
 .social-networks {
@@ -142,7 +146,7 @@ display: inline;
 .review-wrapper{
         display: grid;
         grid-template-columns: repeat(0, 1fr);
-        grid-gap: 10px;
+        grid-gap: 20px;
         margin-left: 40px;
         margin-right: 40px;
     }
