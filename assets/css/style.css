@@ -124,7 +124,7 @@ display: inline;
 
 .form-section {
     clear: left;
-    background: url("/assets/images/getintouch.jpeg");
+    background: url("assets/images/getintouch.jpeg");
     background-size: cover;
     background-position: center;
     height: 500px;
