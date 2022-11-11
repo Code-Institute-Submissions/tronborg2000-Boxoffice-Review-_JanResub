@@ -124,7 +124,7 @@ display: inline;
 
 .form-section {
     clear: left;
-    background: url("./assets/images/getintouch.jpeg"); 
+    background: url("/assets/images/getintouch.jpeg"); 
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -166,3 +166,18 @@ display: inline;
         margin-right: 40px;
     }
 
+    
+@media screen and (max-width: 1200px;) {
+    
+    
+}
+
+@media screen and (max-width: 950px;) {
+    #nav {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
