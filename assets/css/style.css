@@ -60,12 +60,12 @@ ul > li {
     margin-top: 2%;
 }
 
-.hero-image {
-    width: 100%;
-    height: 300px;
-    overflow: hidden;
-    position: relative;
-    margin-left: 3%;
+
+
+.hero-image  {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 10px;
 }
 
 .about-list li{
