@@ -44,12 +44,12 @@ This site is a go to site for all things movie and entertainment. The site has e
 
 - HTML
     - No errors were returned when passing through the official [W3C validator] 
-    ![W3C](vscode-remote://tronborg200-boxofficere-zu3jp3aoomw.ws-eu75.gitpod.io/workspace/Boxoffice-Review-/assets/images/Screenshot%202022-11-17%20at%2015.18.09.png)
+    ![W3C](/assets/images/Screenshot%202022-11-17%20at%2015.18.09.png)
 
 - CSS
     - No errors were found when passing through the official [(Jigsaw) validator]
 
-    ![CSS](vscode-remote://tronborg200-boxofficere-zu3jp3aoomw.ws-eu75.gitpod.io/workspace/Boxoffice-Review-/assets/images/Screenshot%202022-11-17%20at%2015.19.14.png)
+    ![CSS](/assets/images/Screenshot%202022-11-17%20at%2015.19.14.png)
     
 
 
