@@ -61,11 +61,13 @@ ul > li {
 }
 
 
-
-.hero-image  {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    grid-gap: 10px;
+.hero-image {
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    margin-left: 3%;
+    
 }
 
 .about-list li{

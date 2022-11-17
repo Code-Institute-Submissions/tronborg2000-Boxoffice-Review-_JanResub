@@ -7,7 +7,7 @@ This site is a go to site for all things movie and entertainment. The site has e
 - The Logo and Heading 
     - At the top of the page you have the Box office review logo in large easy to read font and three page links on the top right hand side. Home page leads to home, contact page will lead to a contact form where the user can sign up to receive updates and a movie review page with the latest weekly reviews. These pages can be expanded to encompase more content as the site grows. The nav bar links to a stand alone contact form page and review page. Further pages can be added as content grows. 
     
-![Header](/assets/images/Header%20Box%20Office%20Review.jpg)
+![Header](/assets/images/Screenshot%202022-11-17%20at%2014.01.20.png)  
 
 
 
@@ -20,7 +20,8 @@ This site is a go to site for all things movie and entertainment. The site has e
 
   - __Contact Form__
 
-![Contact Form](/assets/images/Form%20Sign%20up%20box%20office.jpg)
+![Contact Form](/assets/images/Screenshot%202022-11-17%20at%2014.02.43.png)
+
 
     The contact form allows users to sign up for future updates to a newsletter and new site functions as they occur. There is a clear image behind the form inviting the user to reach out and contact us.
     This form is also linked in the nav bar at the top of the page brining the user quickly to a stand alone form section.  
