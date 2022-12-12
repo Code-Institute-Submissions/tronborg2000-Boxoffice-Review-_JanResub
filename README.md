@@ -61,9 +61,13 @@ Note: If you are not able to run the test suite, please check that you have the 
 
 ### Validator Testing 
 
-- HTML
+- HTML home page 
     - No errors were returned when passing through the official [W3C validator] 
     ![W3C](/assets/images/Screenshot%202022-11-17%20at%2015.18.09.png)
+
+- HTML contact page 
+![W3C CONTACT](assets/images/Screenshot%202022-12-12%20at%2017.05.38.png)
+- HTML reviews page 
 
 - CSS
     - No errors were found when passing through the official [(Jigsaw) validator]
