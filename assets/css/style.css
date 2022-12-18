@@ -7,6 +7,12 @@
 
 }
 
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
 #logo {
     float: left;
     font-size: 400%;
@@ -43,23 +49,21 @@ ul > li {
     margin-left: 3%;
 }
 
-#nav li{
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
-}
-
-#nav {
-    font-size: 1.5rem;
-    height: 30px;
-}
-
-.nav-wrapper{
-    position: relative;
-    margin-right: 4%;
-    margin-top: 2%;
-}
-
+#nav ul {
+    display: flex;
+  }
+  
+#nav ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 0 10px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+#nav ul li a:hover {
+    color: blue;
+    transform: scale(1.1);
+  }
 
 .hero-image {
     width: 100%;
