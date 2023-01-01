@@ -77,20 +77,50 @@ h2 {
     left: 0;
     right: 0;
     margin: auto;
-    background-color: white;
-    border: none;
-    color: black;
+    display: inline-block;
+    width: fit-content;
+    background-color: white;  
+    border: 1px solid #777777;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
     font-size: 16px;
     cursor: pointer;
-    transition: background-color 0.5s ease; 
+    transition: background-color 0.5s ease;  
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
   
 .image .button:hover {
-    background-color: blue;
+    background-color: rgba(135, 206, 235, 0.5);  
   }
+  
+.button {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 auto;
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+    border-radius: 50%;
+    box-shadow: 0 5px 0 #999;
+    }
+
+.button:active {
+        top: 3px;
+        box-shadow: none;
+        }   
+   
+.button:hover {
+    background-color: rgba(0, 0, 255, 0.1);
+  }
+   
    
 
 .text-left{
@@ -131,24 +161,20 @@ display: inline;
 }
 
 .form-section {
-    clear: left;
-    background-color: antiquewhite;
-    background-position: center;
-    height: 500px;
-    margin-left: 3%;
-    margin-right: 3%
-}
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
 .signup-form {
-    margin: 100px 10% 0 0;
     color: #fafafa;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position: absolute;
+    width: 400px;
+    max-width: 90%;
     padding: 30px;
-    float: left;
-    left:10%;
-}
+
+  }
+  
 
 .signup-form h2 {
     color:#fafafa;
