@@ -23,6 +23,12 @@ ul > li {
     
 }
 
+.hero-image {
+    width: 100%;
+    height: auto;
+  }
+  
+
 #nav ul {
     display: flex;
   }
@@ -42,11 +48,13 @@ ul > li {
 
 p{
     font-family: poppins;
+    font-size: 1rem;
 }
 
 h2 {
     font-family: 'Luckiest Guy', cursive, san-serif;
     color: crimson;
+    font-size: 2rem;
 }
 
 .gallery {
@@ -54,16 +62,16 @@ h2 {
     flex-wrap: wrap;
   }
   
-  .image {
+.image {
     width: 33.3%;
     position: relative;
   }
   
-  .image img {
+.image img {
     width: 100%;
   }
   
-  .image .button {
+.image .button {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -80,7 +88,7 @@ h2 {
     transition: background-color 0.5s ease; 
   }
   
-  .image .button:hover {
+.image .button:hover {
     background-color: blue;
   }
    
@@ -158,7 +166,7 @@ display: inline;
 }
 
 
-    @media screen and (max-width: 950px) {
+@media screen and (max-width: 950px) {
         .nav-wrapper {
           clear: left;
           float: left;
@@ -172,15 +180,29 @@ display: inline;
 
     
       
-      @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
         .image {
           width: 50%;
         }
       }
       
-      @media only screen and (max-width: 480px) {
+@media only screen and (max-width: 480px) {
         .image {
           width: 100%;
+        }
+      }
+
+@media only screen and (max-width: 768px) {
+        .signup-form {
+          left: 0;
+          top: 0;
+          transform: none; 
+          margin: 20px;  
+      }
+      
+@media only screen and (max-width: 480px) {
+        .signup-form {
+          width: 100%;  
         }
       }
       
