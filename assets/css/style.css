@@ -16,12 +16,14 @@ body {
 
 
 .banner-container {
+  margin-top: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 500px;
   position: relative;
 }
+
 
 .banner-container {
   display: flex;
@@ -71,7 +73,7 @@ body {
 }
 
 .site-logo {
-  color: #fff;
+  color: rgb(1, 80, 199);
   font-size: 60px; 
   text-decoration: none;
   position: absolute; 
@@ -321,3 +323,31 @@ p {
   width: 100%;
   }
   }
+
+  @media screen and (max-width: 980px) {
+    .header-container {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    nav {
+      display: block;
+      width: 100%;
+    }
+    .social-networks {
+      display: block;
+      text-align: center;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .cta-container {
+      display: block;
+      width: 100%;
+    }
+  }
+  
+  
+  
