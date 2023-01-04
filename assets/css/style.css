@@ -60,6 +60,8 @@ header {
 .description p {
   font-size: 18px;
   font-family: 'Poppins', sans-serif;
+  padding: 20px; 
+  margin-left: 20px
 }
 
 .logo {
