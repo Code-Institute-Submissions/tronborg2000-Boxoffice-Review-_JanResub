@@ -8,6 +8,7 @@
 
 header {
   background-color: rgb(184, 177, 177);
+  padding: 20px;
 }
 
 .header-container {
@@ -21,6 +22,46 @@ header {
   right: 0; 
 }
 
+.banner-container {
+  display: flex;
+  justify-content: center;
+
+}
+
+
+  .cta-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ddd;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .cta-button:hover {
+    background-color: #add8e6;
+  }
+
+
+
+.banner {
+  width: 50%;
+}
+
+.description p {
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+}
+
 .logo {
   color: #fff;
   font-size: 40px; 
@@ -28,7 +69,9 @@ header {
   position: absolute; 
   top: 0; 
   left: 0; 
+  font-family: 'Luckiest Guy', sans-serif;
 }
+
 
 #logo {
   font-weight: bold;
@@ -170,14 +213,21 @@ footer {
 }
 
 .social-networks {
-  list-style: none; 
-  display: flex; 
-  justify-content: space-between; 
+  text-align: center;
 }
 
-.social-networks li {
-  margin: 0 0.5rem; 
+.social-media-container {
+  display: flex;
+  justify-content: center;
 }
+
+
+.social-networks li {
+  display: inline-block;
+  margin: 0 10px;
+  text-align: center;
+}
+
 
 .social-networks a {
   color: #000;
@@ -236,6 +286,7 @@ footer {
     flex-direction: column;
     align-items: flex-start;
   }
+}
 
 @media screen and (max-width: 950px) {
         .nav-wrapper {
@@ -270,10 +321,10 @@ footer {
           transform: none; 
           margin: 20px;  
       }
+    }
       
 @media only screen and (max-width: 480px) {
         .signup-form {
           width: 100%;  
         }
       }
-      
