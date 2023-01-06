@@ -7,8 +7,34 @@
 }
 
 header {
-  padding: 20px;
+  padding: 50px;
+  height: 80px;
+
 }
+
+.header-container {
+  position: relative;
+  height: 80px; 
+}
+
+.gallery-container {
+  position: absolute;
+  top: 80px; 
+  left: 0;
+  right: 0;
+}
+
+
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
+
 
 body {
   background-color: #F8F8F8;
@@ -61,6 +87,16 @@ body {
 .banner {
   width: 50%;
 }
+
+.banner-container {
+  margin-top: 80px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  position: relative;
+}
+
 
 .description {
   position: relative;
