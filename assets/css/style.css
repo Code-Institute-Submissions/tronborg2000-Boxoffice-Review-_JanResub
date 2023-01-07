@@ -16,7 +16,7 @@ header {
 
 
 .gallery-container {
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 
@@ -168,7 +168,7 @@ p {
 .image {
     width: 33.3%;
     position: relative;
-    height: 500px;
+    height: 100%;
   }
   
 .image img {
@@ -213,7 +213,7 @@ p {
   }
   
   textarea {
-    width: 50%; /* adjust as needed */
+    width: 50%;
   }
    
   
