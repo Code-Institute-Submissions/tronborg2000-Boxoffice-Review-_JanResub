@@ -35,6 +35,11 @@ body {
   background-color: #c4bebe;
 }
 
+#contact {
+  background-image: url(/assets/images/contact\ 2.jpg);
+  background-size: cover;
+}
+
 
 .banner-container {
   margin-top: 80px;
@@ -296,6 +301,7 @@ p {
 
 
 .form-section {
+    margin-top: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -328,6 +334,8 @@ p {
 
 footer {
   text-align: center;
+  margin-bottom: 50px;
+  margin-top: 100px;
 }
 
 

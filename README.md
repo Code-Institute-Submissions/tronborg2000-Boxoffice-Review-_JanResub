@@ -4,19 +4,46 @@ This site is a go-to site for all things movie and entertainment. The site has e
 
 
 ## Features 
-- The Logo and Heading 
-    - At the top of the page you have the Box office review logo in large easy-to-read font and three page-links on the top right-hand side. Home page lead to home, contact page will lead to a contact form where the user can sign-up to receive updates and a movie review page with the latest weekly reviews. These pages can be expanded to encompass more content as the site grows. The navbar links to a stand-alone contact form page and review page. Further pages can be added as content grows.
+* Easy-to-navigate layout with a clear logo and page links at the top of the page
+* Stand-alone contact form page for users to sign up for updates
+* Movie review page featuring the latest weekly reviews
+* Expandable pages to include more content as the site grows
+* Navbar links to a contact form page and review page, with the ability to add more pages as needed
     
 ![Header](/assets/images/Screenshot%202022-11-17%20at%2014.01.20.png)  
 
+## Introduction
 
+- The hover effects on the social media icons and nav menus in this project were implemented to provide a more interactive and engaging experience for the user.
+
+## Social Media Icons
+The social media icons are located in the header of the page. When the user hovers their mouse over the icons, the color of the icon changes to indicate that they are clickable. This helps the user understand that they can interact with the icons and be directed to the corresponding social media page.
+
+## Nav Menus
+- The nav menus in this project are located in the header of the page. When the user hovers their mouse over the menu items, the background color changes to indicate that they are clickable. This helps the user understand that they can interact with the menu items and be directed to the corresponding page.
+
+## Social Media Icons
+
+-The social media icons function as links to the corresponding social media pages. When clicked, the icons open the linked pages in a new tab. The "a" elements that contain the icons have the attribute "target='_blank'" which allows them to open in a new tab. The "rel='noopener'" attribute ensures that the new page does not have control over the parent page. The "aria-label" attribute provides a description of the icon for users of assistive technologies. 
+
+- When hovered over the social media ocions change to gold to highlight the choice made. 
+
+## Conclusion
+- The hover effects on the social media icons and nav menus in this project enhance the user experience by providing a more interactive and engaging interface.
+
+## Review Page
+
+- Welcome to the review page of Box Office Review! On this page, you will find a collection of movie and TV show reviews written by our team of reviewers.
+
+- To access a full review, simply click on the "View" button located below each review thumbnail. This will take you to a new page featuring the full review, complete with additional details and images.
+
+- In addition to reading reviews, you can also interact with the page through hover effects. If you hover your mouse over the social media icons at the top of the page, they will change color to indicate that they are clickable links. Similarly, if you hover over the navigation menu items, the background color will change to give the page a dynamic feel.
+
+- We hope you enjoy exploring the reviews on our page and that they help you make informed decisions about what to watch next. Don't forget to sign up for updates via the contact form so you can stay up-to-date on the latest reviews!
 
 
    - __Mid Page__
 
-![Mid Page](/assets/images/mid%20page%20box%20office.jpg)
-
-  - Mid-page area gives a list of all the features available on the site. As the site grows and encompasses more content, these will become clickable links to each section that the user wants to navigate to depending on their interest. 
 
   - __Contact Form__
 
@@ -29,7 +56,7 @@ This site is a go-to site for all things movie and entertainment. The site has e
 
 ![Contact and social](/assets/images/contact%20and%20social%20box%20office.jpg)
 
-    The bottom and footer of the page have clear contact details with social media links that can be clicked, opening a new page and linking to each of the social media pages.
+   The footer of the website is located at the bottom of every page. It contains copyright information, a link to the terms and conditions page, and contact information. The copyright information displays the name of the website owner and the year of publication. The terms and conditions link provides users with information on the use and management of the website. The contact information includes an email address and phone number for users to get in touch with the website owner. The footer is a useful resource for users to find important information and get in touch with the website owner.
 
 
 
