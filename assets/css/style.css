@@ -410,5 +410,10 @@ footer {
     }
   }
   
+  @media (max-width: 480px) {
+    .site-logo {
+      font-size: 30px; /* reduce font size for mobile devices */
+    }
+  }
   
   
