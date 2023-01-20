@@ -209,8 +209,10 @@ p {
   }
 
   .review {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 5px;
+    justify-content: center;
     align-items: center;
   }
   
