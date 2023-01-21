@@ -10,11 +10,15 @@ This site is a go-to site for all things movie and entertainment. The site has e
 * Expandable pages to include more content as the site grows
 * Navbar links to a contact form page and review page, with the ability to add more pages as needed
     
-![Header](/assets/images/Screenshot%202022-11-17%20at%2014.01.20.png)  
+![main page full](assets/images/frontpagenewmain1.jpg)
 
 ## Introduction
 
 - The hover effects on the social media icons and nav menus in this project were implemented to provide a more interactive and engaging experience for the user.
+
+![hover nav bar](assets/images/hovernavbarview.jpg)
+
+![hover social](assets/images/hoversocialmedianew.jpg)
 
 ## Social Media Icons
 The social media icons are located in the header of the page. When the user hovers their mouse over the icons, the color of the icon changes to indicate that they are clickable. This helps the user understand that they can interact with the icons and be directed to the corresponding social media page.
@@ -42,21 +46,37 @@ The social media icons are located in the header of the page. When the user hove
 - We hope you enjoy exploring the reviews on our page and that they help you make informed decisions about what to watch next. Don't forget to sign up for updates via the contact form so you can stay up-to-date on the latest reviews!
 
 
-   - __Mid Page__
+## Mobile and Tablet views 
+
+- The pages are all fully responsive on mobile and tablet views
+
+![mobile](assets/images/mobiledevicenew.jpg)
+
+![Tablet](assets/images/tabletnew.jpg)
 
 
   - __Contact Form__
 
-![Contact Form](/assets/images/Screenshot%202022-11-17%20at%2014.02.43.png)
+![contactus](assets/images/contactusnew.jpg)
 
 
     The contact form allows users to sign up for future updates to a newsletter and new site functions as they occur. There is a clear image behind the form inviting the user to reach out and contact us. This form is also linked in the nav bar at the top of the page, bringing the user quickly to a stand-alone form section.
 
+## Reviews Page 
+
+- The reviews section has View buttons on each review which change colour when hovered over. Each review has it's on seperate page with an image and a review on a reveiw card underneath 
+
+![Review View Button ](assets/images/Examplereview1.jpg)
+
+![Example Reivew](assets/images/blackadamreadme.jpg)
+
     - __Contact and Social__
 
-![Contact and social](/assets/images/contact%20and%20social%20box%20office.jpg)
+![Social and hover](assets/images/hoversocialmedianew.jpg)
 
    The footer of the website is located at the bottom of every page. It contains copyright information, a link to the terms and conditions page, and contact information. The copyright information displays the name of the website owner and the year of publication. The terms and conditions link provides users with information on the use and management of the website. The contact information includes an email address and phone number for users to get in touch with the website owner. The footer is a useful resource for users to find important information and get in touch with the website owner.
+
+   The social Media Icons change colour when hovered over to a nice yellow colour indicating the mouse has been hovered over them 
 
 
 
