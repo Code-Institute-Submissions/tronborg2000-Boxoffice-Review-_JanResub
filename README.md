@@ -32,18 +32,12 @@ The social media icons are located in the header of the page. When the user hove
 
 - When hovered over the social media ocions change to gold to highlight the choice made. 
 
+![Hover Social](assets/images/hoversocialmedianew.jpg)
+
 ## Conclusion
 - The hover effects on the social media icons and nav menus in this project enhance the user experience by providing a more interactive and engaging interface.
 
-## Review Page
 
-- Welcome to the review page of Box Office Review! On this page, you will find a collection of movie and TV show reviews written by our team of reviewers.
-
-- To access a full review, simply click on the "View" button located below each review thumbnail. This will take you to a new page featuring the full review, complete with additional details and images.
-
-- In addition to reading reviews, you can also interact with the page through hover effects. If you hover your mouse over the social media icons at the top of the page, they will change color to indicate that they are clickable links. Similarly, if you hover over the navigation menu items, the background color will change to give the page a dynamic feel.
-
-- We hope you enjoy exploring the reviews on our page and that they help you make informed decisions about what to watch next. Don't forget to sign up for updates via the contact form so you can stay up-to-date on the latest reviews!
 
 
 ## Mobile and Tablet views 
@@ -63,6 +57,14 @@ The social media icons are located in the header of the page. When the user hove
     The contact form allows users to sign up for future updates to a newsletter and new site functions as they occur. There is a clear image behind the form inviting the user to reach out and contact us. This form is also linked in the nav bar at the top of the page, bringing the user quickly to a stand-alone form section.
 
 ## Reviews Page 
+
+- Welcome to the review page of Box Office Review! On this page, you will find a collection of movie and TV show reviews written by our team of reviewers.
+
+- To access a full review, simply click on the "View" button located below each review thumbnail. This will take you to a new page featuring the full review, complete with additional details and images.
+
+- In addition to reading reviews, you can also interact with the page through hover effects. If you hover your mouse over the social media icons at the top of the page, they will change color to indicate that they are clickable links. Similarly, if you hover over the navigation menu items, the background color will change to give the page a dynamic feel.
+
+- We hope you enjoy exploring the reviews on our page and that they help you make informed decisions about what to watch next. Don't forget to sign up for updates via the contact form so you can stay up-to-date on the latest reviews!
 
 - The reviews section has View buttons on each review which change colour when hovered over. Each review has it's on seperate page with an image and a review on a reveiw card underneath 
 
