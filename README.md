@@ -119,7 +119,9 @@ No errors were returned when passing through the official [W3C validator]
 
 - HTML reviews page 
 No errors were returned when passing through the official [W3C validator] 
-![W3C Reviews page](assets/images/Screenshot%202022-12-12%20at%2017.07.25.png)
+
+![Reviews Page](assets/images/reviewspassw3c.jpg)
+
 
 - CSS
     - No errors were found when passing through the official [(Jigsaw) validator]
@@ -128,7 +130,9 @@ No errors were returned when passing through the official [W3C validator]
     
 
 
+## Testing error resolved 
 
+-I was getting an error on the W3C page because of a stray body tag in the reviews page which was eventually caught and corrected. 
 
 
 ## Links used references. 
