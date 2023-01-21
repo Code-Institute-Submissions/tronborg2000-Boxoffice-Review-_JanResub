@@ -4,7 +4,7 @@ This site is a go-to site for all things movie and entertainment. The site has e
 
 
 ## Features 
-* Easy-to-navigate layout with a clear logo and page links at the top of the page
+* Easy-to-navigate layout 
 * Stand-alone contact form page for users to sign up for updates
 * Movie review page featuring the latest weekly reviews
 * Expandable pages to include more content as the site grows
