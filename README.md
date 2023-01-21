@@ -110,11 +110,12 @@ Note: If you are not able to run the test suite, please check that you have the 
 
 - HTML home page 
     - No errors were returned when passing through the official [W3C validator] 
-    ![W3C](/assets/images/Screenshot%202022-11-17%20at%2015.18.09.png)
+    HOME PAGE 
+   ![HOMEPAGE](assets/images/W3CTESTFRONTPAGE.jpg)
 
 - HTML contact page 
 No errors were returned when passing through the official [W3C validator] 
-![W3C CONTACT](assets/images/Screenshot%202022-12-12%20at%2017.05.38.png)
+![contact](assets/images/w3ctestcontact.jpg)
 
 - HTML reviews page 
 No errors were returned when passing through the official [W3C validator] 
